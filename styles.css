@@ -32,5 +32,10 @@ body{
 .centeredHeaders{
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size:1.5cm
+    font-size: 1.5cm
+}
+
+.photoCaption{
+    text-align: center;
+    font-size: .4cm;
 }
