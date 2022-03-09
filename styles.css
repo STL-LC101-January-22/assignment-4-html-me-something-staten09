@@ -1,1 +1,41 @@
 /* Write your CSS here! */
+.img{
+    display: circle;
+    height: 720px;
+    width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+}
+ 
+#mainHeading{
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2cm;
+}
+
+body{
+    display: block;
+    margin: 8px;
+    background-image: url('https://th.bing.com/th/id/R.2086be28b837d83483c3b16e92b345ee?rik=O7NkbBGmwI%2bqUg&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fFJngvj7.jpg&ehk=sLBLYxF80JNXWlhKK9ZydW0CL6gJJE9UD%2fLcWCLcaKY%3d&risl=&pid=ImgRaw&r=0');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+    font-size: x-large;
+}
+
+.funParagraph{
+    color:green;
+    background-color: aliceblue;
+}
+
+.centeredHeaders{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.5cm
+}
+
+.photoCaption{
+    text-align: center;
+    font-size: .4cm;
+}
